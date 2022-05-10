@@ -11,22 +11,7 @@ User (*) uses 'U', 'D', 'L', 'R' key to navigate, avoiding the pitholes to find 
 
 Roles: '*' = user, 'o' = hole, '^' = hat
  
-Field Demo: 
-
-*░ooo░o░░o
-o░o░░░░░oo
-░░░░░o░░o░
-░░░░░░░░o░
-░░ooooo░░░
-░░░░░░o░░o
-oo░o░oooo░
-░░░░░░░░░o
-░░░░░o░░o░
-░░░░░o░░^░
-Enter (u, d, l or r)
-which way?
-
-
+ 
 ●	What did you like about this project?
 
  I am able to practise my newly acquired skill in javascript to build a console game which works. I also learn how to use node.js and npm packages to help to simplify my coding.
